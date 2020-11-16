@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yeD47cIfxwFwlrsP+QJ9ZwyUyPm9UrETTtGu8nYPiXY3w0JsIAAJrw55sAZ7Cv9Y5K/RJKDM++Je1fg3xbwwsg==",
+  "success": true,
+  "projectFilePath": "D:\\Temp\\PipeMethodCallsRepro\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
